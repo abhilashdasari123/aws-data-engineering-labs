@@ -1,1 +1,1 @@
-# aws-data-engineering-labs
+# aws-data-engineering-labsKeystoneEduTech AWS Data Engineering course lab repository.## Week 1- `week01_git_intro/hello_pipeline.py` — first Git push exercise.## Student notesAdd your cohort notes and lab links here.
